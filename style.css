@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+a {
+  font-family: Verdana;
+  color: #00FFA2;
+  font-size: 3em;
+  font-weight: 700;
+
+}
